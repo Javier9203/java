@@ -1,0 +1,72 @@
+[
+ {
+   "FIELD1": "State",
+   "FIELD2": "Under 5 Years",
+   "FIELD3": "5 to 13 Years",
+   "FIELD4": "14 to 17 Years",
+   "FIELD5": "18 to 24 Years",
+   "FIELD6": "25 to 44 Years",
+   "FIELD7": "45 to 64 Years",
+   "FIELD8": "65 Years and Over"
+ },
+ {
+   "FIELD1": "CA",
+   "FIELD2": "2704659",
+   "FIELD3": "4499890",
+   "FIELD4": "2159981",
+   "FIELD5": "3853788",
+   "FIELD6": "10604510",
+   "FIELD7": "8819342",
+   "FIELD8": "4114496"
+ },
+ {
+   "FIELD1": "TX",
+   "FIELD2": "2027307",
+   "FIELD3": "3277946",
+   "FIELD4": "1420518",
+   "FIELD5": "2454721",
+   "FIELD6": "7017731",
+   "FIELD7": "5656528",
+   "FIELD8": "2472223"
+ },
+ {
+   "FIELD1": "NY",
+   "FIELD2": "1208495",
+   "FIELD3": "2141490",
+   "FIELD4": "1058031",
+   "FIELD5": "1999120",
+   "FIELD6": "5355235",
+   "FIELD7": "5120254",
+   "FIELD8": "2607672"
+ },
+ {
+   "FIELD1": "FL",
+   "FIELD2": "1140516",
+   "FIELD3": "1938695",
+   "FIELD4": "925060",
+   "FIELD5": "1607297",
+   "FIELD6": "4782119",
+   "FIELD7": "4746856",
+   "FIELD8": "3187797"
+ },
+ {
+   "FIELD1": "IL",
+   "FIELD2": "894368",
+   "FIELD3": "1558919",
+   "FIELD4": "725973",
+   "FIELD5": "1311479",
+   "FIELD6": "3596343",
+   "FIELD7": "3239173",
+   "FIELD8": "1575308"
+ },
+ {
+   "FIELD1": "PA",
+   "FIELD2": "737462",
+   "FIELD3": "1345341",
+   "FIELD4": "679201",
+   "FIELD5": "1203944",
+   "FIELD6": "3157759",
+   "FIELD7": "3414001",
+   "FIELD8": "1910571"
+ }
+]
